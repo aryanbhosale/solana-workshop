@@ -1,1 +1,1 @@
-# solana-workshop
+# airdrop
